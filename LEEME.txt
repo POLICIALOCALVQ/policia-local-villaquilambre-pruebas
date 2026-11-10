@@ -1,0 +1,11 @@
+POLICÍA LOCAL VILLAQUILAMBRE — PWA M2
+
+Cambios de diseño respecto a M1:
+1. Autor bajo el nombre y subtítulo de cabecera, junto al escudo.
+2. Eliminado el bloque azul «Consulta policial en tu bolsillo».
+3. NORMATIVA en su propia fila; CODIFICADOS y HERRAMIENTAS COMPLEMENTARIAS en separadores independientes de ancho completo.
+
+ACTUALIZACIÓN EN GITHUB:
+Subir los archivos de esta carpeta a la raíz del mismo repositorio, reemplazando los anteriores. Confirmar mediante Commit changes. GitHub Pages publicará los cambios. La aplicación instalada puede necesitar cerrarse y abrirse nuevamente o recargarse conectada a Internet para recibir la nueva versión.
+
+Para instalación PWA, usar HTTPS.
